@@ -7,4 +7,6 @@ In earlier work (Chaudhary et al., 2019) we have presented a model to predict fl
 * directly regressing one representative water level value per image and, more importantly, 
 * exploiting relative ranking of the water levels in pairs of images, which is much easier to annotate.
 
+To gain access to the dataset please send us an email at priyanka.chaudhary@geod.baug.ethz.ch. 
+
 
